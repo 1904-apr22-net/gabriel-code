@@ -2,3 +2,4 @@ git add <path>
     this will stage all local changes
     to any files/folder at/under that path
     usually: "git add ."from the top-level repo folder.
+    ----------------------------------
